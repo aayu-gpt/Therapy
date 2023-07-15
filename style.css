@@ -1,0 +1,423 @@
+.index img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50px;
+}
+p1 i {
+    color: #194d69;
+    background: #477187;
+    padding: 10px;
+    font-size: 20px;
+}
+.blog {
+    color: white;
+    font-family: arial;
+    font-weight: bolder;
+    padding-left: 80px;
+    padding-top: 50px;
+    font-size: 15px;
+    margin-left: 40px;
+    box-shadow: -8px 0px 10px -11px black;
+}
+.img5 p {
+    color: white;
+    font-size: 15px;
+    font-family: arial;
+    font-weight: bolder;
+    padding-left: 81px;
+}
+.img5 img {
+    width: 265px;
+    margin: auto;
+    border-radius: 0;
+    padding-left: 275px;
+    padding-top: 37px;
+}
+.page {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.indx1 p span {
+    text-align: center;
+    width: 100%;
+    display: block;
+    font-size: 20px;
+    color: black;
+}
+.image5 {
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/24/03/41/starry-sky-2675322__340.jpg");
+    height: 340px;
+    margin-top: 90px;
+    width: 100%;
+}
+ .image4 {
+    background-color: white;
+    width: 100%;
+	height:685px;
+} 
+.image3 {
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/28/22/03/tree-3358468__340.jpg");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+   
+
+.image2 {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/297/22/531/lake-blue-moonlight-moon-wallpaper-preview.jpg");
+    width: 100%;
+    height: 469px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+i.fa-solid.fa-star {
+    font-size: 25px;
+    color: gold;
+    text-align: center;
+}
+.tag1 {
+    TEXT-ALIGN: center;
+    PADDING-TOP: 65PX;
+}
+p4 {
+    color: white;
+    font-family: arial;
+    font-size: 17px;
+    font-weight: bolder;
+}
+p5 {
+    color: white;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bolder;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    border: none;
+    color: black;
+    background-color: white;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+padding:0px;
+}
+li {
+    text-align: center;
+    padding-left: 15px;
+    font-size: 15px;
+    padding-bottom: 10px;
+    padding-top: 14px;
+    border-block-width: 30px;
+    float: left;
+}
+
+li a {
+  display: block;
+  color:black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+  li a.active {
+    color: white;
+    background-color: deepskyblue;
+    text-align: center;
+    border-radius: 50px;
+}
+.page {
+    display: flex;
+}
+.image {
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832__340.jpg");
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.heading {
+    text-align: center;
+    padding-top: 100px;
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+}
+span {
+    color: deepskyblue;
+}
+.paragraph {
+    COLOR: white;
+    font-family: arial;
+    text-align: center;
+    font-size: 14px;
+}
+input.button {
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 50px;
+    text-align: center;
+    margin: auto;
+    font-size: 13px;
+    margin-top: 91px;
+    font-weight: bolder;
+    width: 259px;
+    display: block;
+    height: 43px;
+    border: none;
+}
+ .image1 {
+    background-color: white;
+    width: 100%;
+	height:500px;
+} 
+input.button1 {
+    color: white;
+    background-color: deepskyblue;
+    padding-left: 30px;
+    margin: auto;
+    font-size: 15px;
+    margin-top: 91px;
+    font-weight: bolder;
+    width: 970px;
+    display: block;
+    height: 55px;
+    border: none;
+}
+input.button2 {
+    color: white;
+    background-color: deepskyblue;
+    padding-left: 30px;
+    margin: auto;
+    font-size: 15px;
+    margin-top: -18px;
+    font-weight: bolder;
+    width: 970px;
+    display: block;
+    height: 55px;
+    border: none;
+}
+input.button3 {
+    color: white;
+    background-color: deepskyblue;
+    padding-left: 30px;
+    margin: auto;
+    font-size: 15px;
+    margin-top: -13px;
+    font-weight: bolder;
+    width: 970px;
+    display: block;
+    height: 55px;
+    border: none;
+}
+.para1 {
+    text-align: inherit;
+    font-size: 12px;
+    font-family: arial;
+    display: block;
+    width: 970px;
+    color: grey;
+    margin: auto;
+    margin-top: 25px;
+}
+.para2 {
+    text-align: center;
+    color: deepskyblue;
+    font-family: cursive;
+    padding-top: 20px;
+}
+.para2 span {
+    color: white;
+    font-family: arial;
+    font-size: 33px;
+}
+.flex {
+    width: 80%;
+    margin: auto;
+	display:flex;
+}
+.flex {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    color: black;
+    font-family: arial;
+    font-size: 13px;
+	    padding-top: 100px;
+		gap:55px;
+}
+.one {
+    background-color: white;
+    width: 50%;
+	height: 100%;
+}
+.two {
+    background-color: white;
+    width: 50%;
+	height: 100%;
+}
+.index {
+    background-color: deepskyblue;
+    color: white;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: row;
+    height: 70px;
+	padding-top:10px;
+}
+.index1 p {
+    padding: 15px;
+    color: grey;
+    font-size: 13px;
+}
+p i.fa-solid.fa-star {
+    font-size: 13px;
+}
+img {
+    width: 100px;
+    height: 75px;
+    border-radius: 50px;
+}
+i.fa-solid.fa-location-dot {
+    padding-left: 210px;
+    padding-top: 16px;
+    font-size: 25px;
+    color: red;
+}
+.img1 img {
+    width: 200px;
+    height: 118px;
+    border-radius: 0px;
+}
+.three {
+    color: white;
+    font-family: arial;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 22px;
+}
+input.button4 {
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 50px;
+    text-align: center;
+    margin: auto;
+    font-size: 13px;
+    margin-top: 15px;
+    font-weight: bolder;
+    width: 259px;
+    display: block;
+    height: 43px;
+    border: none;
+}
+.four {
+    text-align: center;
+    margin-top: -222px;
+    font-family: cursive;
+    color: deepskyblue;
+}
+.four span {
+    color: black;
+    font-size: 36px;
+    font-family: arial;
+}
+.flax {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    color: black;
+    font-family: arial;
+    font-size: 13px;
+    padding-top: 29px;
+    gap: 55px;
+	height:450px;
+}
+.indx img {
+    width: 100%;
+    height: 190px;
+    border-radius: 0px;
+}
+.five {
+    box-shadow: 0px 0px 20px 1px;
+}
+.six {
+    box-shadow: 0px 0px 20px 1px;
+}
+.seven {
+    box-shadow: 0px 0px 20px 1px;
+}
+.indx1 p {
+    text-align: center;
+    MARGIN: AUTO;
+    padding: 20px;
+    color: grey;
+    font-size: 14px;
+}
+input.button5 {
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 50px;
+    text-align: center;
+    margin: auto;
+    font-size: 15px;
+    margin-top: 15px;
+    font-weight: bolder;
+    width: 160px;
+    display: block;
+    height: 43px;
+    border: none;
+}
+.image6 {
+    background-color: deepskyblue;
+    width: 90%;
+    height: 45px;
+    margin: auto;
+}
+.nine {
+    color: white;
+    padding: 1px;
+  
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.ten {
+    color: white;
+    margin-top: -45px;
+    margin-left: 299px;
+    font-family: arial;
+    font-size: 14px;
+    font-weight: bolder;
+    box-shadow: -4px -3px 0px -3px antiquewhite;
+    padding-left: 28px;
+}
+.image7 {
+    background-color: deepskyblue;
+    margin-top: -16px;
+    width: 100%;
+    height: 45px;
+}
+.eight {
+    TEXT-ALIGN: center;
+    color: white;
+    font-size: 15px;
+    font-family: arial;
+    padding: 1px;
+    font-weight: bolder;
+}
+.qwerty {
+    background-color: deepskyblue;
+}
+.img3 {
+    text-align: center;
+    margin: auto;
+    padding: 34px;
+    height: 0px;
+}
+.float {
+    display: flex;
+    gap: 321px;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
